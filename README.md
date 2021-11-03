@@ -12,5 +12,4 @@
 <!--or visit https://docs.aws.amazon.com/console/cloud9/ for our documentation.-->
 
 <!--Happy coding!-->
-
-git
+投稿ファイルの[3-0]は「アプリケーションを完成させよう」の[3-1]を示し、投稿[3-1]は[3-2]を示します。
